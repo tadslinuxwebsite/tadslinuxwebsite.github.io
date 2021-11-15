@@ -6,6 +6,7 @@ body{
     background-color:#fdf5df;
     font-family: 'Courier New', Courier, monospace;
 }
+
 .blogs {
     width:50%;
     background-color:white;
@@ -69,3 +70,13 @@ p{
     list-style: none;
     margin-top:2rem;
 }
+@media only screen and (max-width:800px) {
+    .blogs{
+        margin-left:3rem;
+        width:75%;
+    }
+    .blog{
+        position: relative;
+        margin-left:0rem;
+    }
+ }
