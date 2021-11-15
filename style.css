@@ -6,6 +6,33 @@ body{
     background-color:#fdf5df;
     font-family: 'Courier New', Courier, monospace;
 }
+.blogs {
+    width:50%;
+    background-color:white;
+    border-radius:7px;
+    margin-left:4rem;
+    margin-top:3rem;
+    box-shadow:1px;
+    margin-bottom:15px;
+}
+.blogs h1{
+    background-color:#fecd45;
+    color: #2568fb;
+    border-radius:7px 7px 0px 0px;
+}
+.blogs h1, p{
+    padding:5px;
+}
+.home{
+    margin-left:10rem;
+    position: absolute;
+    margin-top:-2rem;
+}
+.blog{
+    position:absolute;
+    margin-top:-2rem;
+    margin-left:28rem;
+}
 h1{
     font-size:2.25rem;
 }
