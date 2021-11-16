@@ -151,4 +151,13 @@ a:hover {
         position: relative;
         margin-left:0rem;
     }
+    .header h1{
+        margin-bottom:1rem;
+    }
+    .linux{
+    position:relative;
+    margin-top:-2.25rem;
+    margin-left:0rem;
+ 
+    }
  }
