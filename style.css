@@ -2,6 +2,15 @@
     padding:0;
     margin:0;
 }
+h1{
+    font-size:2.25rem;
+}
+h3{
+    font-size:1.25rem;
+}
+p{
+    font-size:1.25rem;
+}
 body{
     background-color:#FAF3DD;
     font-family: 'Courier New', Courier, monospace;
@@ -16,6 +25,26 @@ body{
     background-color: white;
     border-color: white;
 }
+.linux2{
+    position:absolute;
+    margin-top:-2.25rem;
+    margin-left:15.25rem;
+    border-style: solid;
+    border-radius: 0.25rem;
+    padding:0.25rem;
+    background-color: white;
+    border-color: white;
+}
+.home{
+    margin-left:10rem;
+    position: absolute;
+    margin-top:-2.25rem;
+    border-style: solid;
+    border-radius: 0.25rem;
+    padding:0.25rem;
+    background-color:white;
+    border-color: white;
+}
 .home2{
     margin-left:10rem;
     position: absolute;
@@ -26,13 +55,17 @@ body{
     background-color:white;
     border-color: white;
 }
+.img1{
+    float:right;
+    padding:1rem;
+}
 .img2{
     float:right;
 }
-.linux2{
+.blog{
     position:absolute;
     margin-top:-2.25rem;
-    margin-left:15.25rem;
+    margin-left:28rem;
     border-style: solid;
     border-radius: 0.25rem;
     padding:0.25rem;
@@ -65,39 +98,6 @@ body{
 }
 .blogs h1, p{
     padding:5px;
-}
-.home{
-    margin-left:10rem;
-    position: absolute;
-    margin-top:-2.25rem;
-    border-style: solid;
-    border-radius: 0.25rem;
-    padding:0.25rem;
-    background-color:white;
-    border-color: white;
-}
-.blog{
-    position:absolute;
-    margin-top:-2.25rem;
-    margin-left:28rem;
-    border-style: solid;
-    border-radius: 0.25rem;
-    padding:0.25rem;
-    background-color: white;
-    border-color: white;
-}
-h1{
-    font-size:2.25rem;
-}
-h3{
-    font-size:1.25rem;
-}
-p{
-    font-size:1.25rem;
-}
-.img1{
-    float:right;
-    padding:1rem;
 }
 .header{
     background-color:#293250;
