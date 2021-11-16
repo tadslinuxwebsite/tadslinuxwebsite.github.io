@@ -3,7 +3,7 @@
     margin:0;
 }
 body{
-    background-color:#fdf5df;
+    background-color:#FAF3DD;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -17,8 +17,8 @@ body{
     margin-bottom:15px;
 }
 .blogs h1{
-    background-color:#fecd45;
-    color: #2568fb;
+    background-color:#293250;
+    color: #FAF3DD;
     border-radius:7px 7px 0px 0px;
 }
 .blogs h1, p{
@@ -48,9 +48,28 @@ p{
     padding:1rem;
 }
 .header{
-    background-color:#fecd45;
-    color:#2568fb;
+    background-color:#293250;
+    color:#FAF3DD;
     padding:1rem;
+}
+a:link {
+    text-decoration: none;
+    color:#FAF3DD;
+}
+a:visited {
+    color:#FAF3DD;
+}
+a:hover {
+    color:#a1956e;
+}
+.list a:link{
+    color:#293250;
+}
+.list a:visited {
+    color:#293250;
+}
+.list a:hover {
+    color:#4b5988;
 }
 .main{
     padding:1rem;
