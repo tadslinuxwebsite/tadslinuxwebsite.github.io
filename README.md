@@ -1,2 +1,2 @@
-# tadslinuxwebsite.github.io
+# tadstechwebsite.github.io
 website about tech
